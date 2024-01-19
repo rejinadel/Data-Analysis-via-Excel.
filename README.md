@@ -1,4 +1,4 @@
-# Data-Analysis-Using-via-Excel.
+# Data-Analysis via-Excel.
 
 Questions that needed to be answered from the analysis.
 1. What is the overall sales performance over time?
