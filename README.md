@@ -11,7 +11,6 @@ Questions that needed to be answered from the analysis.
 4. What is the preferred shipping mode for customers?
 5. How does sales performance vary among different customer segments?
 6. Which sub-categories have the top_5 highest profit margins?
-7. Do certain cities exhibit distinct buying behaviors?
 
 
 
