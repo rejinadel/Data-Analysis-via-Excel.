@@ -1,7 +1,7 @@
 # Data-Analysis via-Excel.
 **Title:Sales Analysis via Excel**
 ![Screenshot from 2024-01-26 16-24-42](https://github.com/rejinadel/Data-Analysis-Using-via-Excel./assets/77151557/5a5e0e6b-480e-4db3-84a4-ca08a86ed5f0)
-**Overview**
+**Overview**:
 This project involves a comprehensive sales superstore over four years, showcasing advanced data manipulation and visualization techniques in Microsoft Excel. The dataset contains various columns such as Order ID, Product ID, state, Sales, , sub-category, category, etcThe objective of this comprehensive sales analysis is to gain deep insights and answer following questions:
 
 Questions that needed to be answered from the analysis.
